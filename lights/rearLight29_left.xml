@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<light>
+    <filename>$data/shared/assets/lights/lizard/rearLight29.i3d</filename>
+    <rootNode node="0" />
+    <defaultLight  node="0|0" lightTypes="0" intensity="20" />
+    <brakeLight    node="0|1" intensity="20" />
+    <turnLightLeft node="0|2" intensity="30" />
+    <reverseLight  node="0|3" intensity="10" />
+</light>
